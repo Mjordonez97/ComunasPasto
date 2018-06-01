@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokeapp01</string>
+    <string name="textView7">DEVELOPERS</string>
+    <string name="textView14">Mariana University</string>
+    <string name="textView15">Systems engineering program</string>
+    <string name="Contacto">CONTACTS</string>
+    <string name="CorreoM">Mail</string>
+    <string name="Celular">Cell phone</string>
+    <string name="textView2">COMMUNES OF THE URBAN AND RURAL SECTORS OF THE MUNICIPALITY OF PASTO</string>
+    <string name="textView6">THIS APPLICATION WILL MEET THE MEETINGS OF COMMUNAL ACTION OF THE URBAN AND RURAL SECTORS OF THE MUNICIPALITY OF PASTO, IN ADDITION TO THIS IT SHOWS ITS RESPECTIVE LOCATION THROUGH GOOGLE MAPS</string>
+    <string name="textView3">Communes of the Urban and Rural sectors of the Municipality of Pasto</string>
+    <string name="button">Location</string>
+    <string name="informacion">APPLICATION INFORMATION</string>
+    <string name="acerca">Developers</string>
+    <string name="contacto">Contact</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokeapp01</string>
+    <string name="textView7">DESARROLLADORAS</string>
+    <string name="textView14">" Universidad Mariana"</string>
+    <string name="textView15">Programa de ingenieria de sistemas</string>
+    <string name="Contacto">CONTACTOS</string>
+    <string name="CorreoM">Correo</string>
+    <string name="Celular">Celular</string>
+    <string name="textView2">COMUNAS DE LOS SECTORES URBANOS Y RURALES DEL MUNICIPIO DE PASTO</string>
+    <string name="textView6">"ESTA APLICACIÓN ENUEMERA LAS JUNTAS DE ACCIÓN COMUNAL DE LOS SECTORES URBANOS Y RURALES DEL MUNICIPIO DE PASTO, ADEMAS DE ESTO MUESTRA SU RESPECTIVA UBICACIÓN POR MEDIO DE GOOGLE MAPS "</string>
+    <string name="textView3">Comunas de los sectores Urbanos y Rurales del Municipio de Pasto</string>
+    <string name="button">ubicación</string>
+    <string name="informacion">Información Aplicación</string>
+    <string name="acerca">Desarrolladoras</string>
+    <string name="contacto">Contacto</string>
+</resources>

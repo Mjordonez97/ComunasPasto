@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sistemas.pokeapp01.Contacto">
+
+    <RelativeLayout
+        android:layout_width="348dp"
+        android:layout_height="474dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="18dp"
+        tools:layout_editor_absoluteY="18dp">
+
+        <TextView
+            android:id="@+id/Contacto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="32dp"
+            android:lineSpacingExtra="12sp"
+            android:text="@string/Contacto"
+            android:textColor="#4B088A"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="77dp"
+            android:lineSpacingExtra="12sp"
+            android:text="María José Ordoñez"
+            android:textColor="#4B088A"
+            android:textSize="16sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/CorreoM"
+            android:layout_width="111dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="114dp"
+            android:lineSpacingExtra="12sp"
+            android:text="@string/CorreoM"
+            android:textAlignment="center"
+            android:textColor="#4B088A"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="144dp"
+            android:text="mariajordonez@umariana.edu.co"
+            android:textColor="#AB5695"
+            android:textSize="16sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/Celular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="184dp"
+            android:lineSpacingExtra="12sp"
+            android:text="@string/Celular"
+            android:textAlignment="center"
+            android:textColor="#4B088A"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:lineSpacingExtra="12sp"
+            android:text="3217678029"
+            android:textColor="#AB5695"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="190dp"
+            android:lineSpacingExtra="12sp"
+            android:text="María Alejandra Romero"
+            android:textColor="#4B088A"
+            android:textSize="16sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/CorreoA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="160dp"
+            android:text="@string/CorreoM"
+            android:textColor="#4B088A"
+            android:textStyle="italic"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="127dp"
+            android:lineSpacingExtra="12sp"
+            android:text="mariromero@umariana.edu.co"
+            android:textColor="#AB5695"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="91dp"
+            android:lineSpacingExtra="12sp"
+            android:text="@string/Celular"
+            android:textColor="#4B088A"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="58dp"
+            android:text="315 2084717"
+            android:textColor="#AB5695"
+            android:textStyle="italic" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sistemas.pokeapp01.Informacion">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="337dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="54dp"
+            android:gravity="center"
+            android:lineSpacingExtra="12sp"
+            android:text="@string/textView2"
+            android:textColor="#4B088A"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="279dp"
+            android:layout_height="93dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="167dp"
+            android:src="@mipmap/ic_launcher_round" />
+
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="279dp"
+            android:layout_height="197dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginBottom="94dp"
+            android:gravity="center"
+            android:lineSpacingExtra="12sp"
+            android:text="@string/textView6"
+            android:textColor="#AB5695"
+            android:textSize="14dp"
+            android:textStyle="bold|italic"
+            android:typeface="serif" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

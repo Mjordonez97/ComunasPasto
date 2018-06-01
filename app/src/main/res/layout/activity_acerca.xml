@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sistemas.pokeapp01.Acerca">
+
+
+    <RelativeLayout
+        android:layout_width="319dp"
+        android:layout_height="495dp"
+        android:layout_marginBottom="48dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="27dp"
+            android:text="@string/textView7"
+            android:textColor="#4B088A"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="174dp"
+            android:layout_height="35dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="124dp"
+            android:lineSpacingExtra="14sp"
+            android:text="María José Ordoñez Córdoba"
+            android:textAlignment="center"
+            android:textColor="#AB5695"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="208dp"
+            android:layout_height="42dp"
+            android:layout_below="@+id/imageView9"
+            android:layout_centerHorizontal="true"
+            android:lineSpacingExtra="14sp"
+            android:text="María Alejandra Romero"
+            android:textAlignment="center"
+            android:textColor="#AB5695"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            android:typeface="serif" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="103dp"
+            android:layout_height="123dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="150dp"
+            android:src="@drawable/majo" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="108dp"
+            android:layout_height="116dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="81dp"
+            android:src="@drawable/aleja" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="59dp"
+            android:lineSpacingExtra="12sp"
+            android:text="@string/textView14"
+            android:textAlignment="center"
+            android:textColor="#4B088A"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView14"
+            android:layout_centerHorizontal="true"
+            android:lineSpacingExtra="12sp"
+            android:text="@string/textView15"
+            android:textAlignment="center"
+            android:textColor="#4B088A"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="43dp"
+            android:lineSpacingExtra="12sp"
+            android:text="San Juan de pasto"
+            android:textColor="#4B088A"
+            android:textSize="16sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="15dp"
+            android:lineSpacingExtra="12sp"
+            android:text="2018"
+            android:textColor="#4B088A"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:typeface="serif" />
+
+
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

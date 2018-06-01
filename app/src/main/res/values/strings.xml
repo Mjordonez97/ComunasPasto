@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pokeapp01</string>
+    <string name="title_activity_acerca_de">acerca_de</string>
+    <string name="title_activity_inicio">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_inicio1">inicio1</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mapa_comuna">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textView7">Desarrolladoras</string>
+    <string name="textView14">Universidad Mariana</string>
+    <string name="textView15">Programa de ingenieria de sistemas</string>
+    <string name="Contacto">CONTACTOS</string>
+    <string name="CorreoM">Correo</string>
+    <string name="Celular">Celular</string>
+    <string name="textView2">COMUNAS DE LOS SECTORES URBANOS Y RURALES DEL MUNICIPIO DE PASTO</string>
+    <string name="textView6">ESTA APLICACIÓN ENUEMERA LAS JUNTAS DE ACCIÓN COMUNAL DE LOS SECTORES URBANOS Y RURALES DEL MUNICIPIO DE PASTO, ADEMAS DE ESTO MUESTRA SU RESPECTIVA UBICACIÓN POR MEDIO DE GOOGLE MAPS</string>
+    <string name="textView3">Comunas de los sectores Urbanos y Rurales del Municipio de Pasto</string>
+    <string name="button">ubicación</string>
+    <string name="informacion">Información Aplicación</string>
+    <string name="acerca">Desarrolladoras</string>
+    <string name="contacto">Contacto</string>
+</resources>
